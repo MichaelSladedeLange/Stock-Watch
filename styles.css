@@ -1,0 +1,16 @@
+html{
+  background-color: #000000;
+  margin: 0;
+}
+body{
+  padding-top: 100px;
+  margin: 0;
+}
+
+.Container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
